@@ -1,0 +1,7 @@
+setuptools==75.2.0
+wheel==0.45.1
+spacy==3.8.5
+Langdetect==1.0.9
+gensim==4.3.3
+numpy==1.26.4
+deepl==1.21.1
